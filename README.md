@@ -27,3 +27,7 @@ To run the tests for the project, run the following command:
 ```bash
 npm test
 ```
+
+## Running
+
+Use Live Preview in Codespaces 
